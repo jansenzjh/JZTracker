@@ -104,5 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # Mac Relate
+bin/
 .idea
 .DS_Store
